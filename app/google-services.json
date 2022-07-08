@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "424408164243",
+    "project_id": "marvellapp-f04a2",
+    "storage_bucket": "marvellapp-f04a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424408164243:android:1a5dace8902e72691fea66",
+        "android_client_info": {
+          "package_name": "com.example.byjusupmarvelapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424408164243-fl59b8i8r3kvehsb8dkkpgh46j0st78e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.byjusupmarvelapp",
+            "certificate_hash": "0bc1a7281446b793fae31198f997c8408929d966"
+          }
+        },
+        {
+          "client_id": "424408164243-sr80n17oq7foe0s8chtrj4mm5r78er5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDprVXDRGJ3ajXZn00Vd4YL90AmEBKhjYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424408164243-sr80n17oq7foe0s8chtrj4mm5r78er5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

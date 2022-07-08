@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Joseph/AndroidStudioProjects/ByJusupMarvelApp/app/src/main/res/drawable/background_gradient.xml" value="0.2965" />
+        <entry key="..\:/Users/Joseph/AndroidStudioProjects/ByJusupMarvelApp/app/src/main/res/drawable/bckground_gradient.xml" value="0.2965" />
+        <entry key="..\:/Users/Joseph/AndroidStudioProjects/ByJusupMarvelApp/app/src/main/res/drawable/by_button.xml" value="0.3345" />
+        <entry key="..\:/Users/Joseph/AndroidStudioProjects/ByJusupMarvelApp/app/src/main/res/drawable/font.xml" value="0.3005" />
+        <entry key="..\:/Users/Joseph/AndroidStudioProjects/ByJusupMarvelApp/app/src/main/res/drawable/splash_screen.xml" value="0.1635" />
+        <entry key="..\:/Users/Joseph/AndroidStudioProjects/ByJusupMarvelApp/app/src/main/res/layout-land/activity_splash.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/Joseph/AndroidStudioProjects/ByJusupMarvelApp/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.38095238095238093" />
+        <entry key="..\:/Users/Joseph/AndroidStudioProjects/ByJusupMarvelApp/app/src/main/res/layout-w936dp/activity_login.xml" value="0.7741935483870968" />
+        <entry key="..\:/Users/Joseph/AndroidStudioProjects/ByJusupMarvelApp/app/src/main/res/layout/activity_authentication.xml" value="0.20789473684210527" />
+        <entry key="..\:/Users/Joseph/AndroidStudioProjects/ByJusupMarvelApp/app/src/main/res/layout/activity_intro.xml" value="0.19572368421052633" />
+        <entry key="..\:/Users/Joseph/AndroidStudioProjects/ByJusupMarvelApp/app/src/main/res/layout/activity_login.xml" value="0.20526315789473684" />
+        <entry key="..\:/Users/Joseph/AndroidStudioProjects/ByJusupMarvelApp/app/src/main/res/layout/activity_main.xml" value="0.20789473684210527" />
+        <entry key="..\:/Users/Joseph/AndroidStudioProjects/ByJusupMarvelApp/app/src/main/res/layout/activity_splash.xml" value="0.32916666666666666" />
+        <entry key="..\:/Users/Joseph/AndroidStudioProjects/ByJusupMarvelApp/app/src/main/res/layout/item_intro.xml" value="0.20789473684210527" />
+        <entry key="..\:/Users/Joseph/AndroidStudioProjects/ByJusupMarvelApp/app/src/main/res/layout/item_slide_screen.xml" value="0.20789473684210527" />
+        <entry key="..\:/Users/Joseph/AndroidStudioProjects/ByJusupMarvelApp/app/src/main/res/layout/layout.xml" value="0.20789473684210527" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
